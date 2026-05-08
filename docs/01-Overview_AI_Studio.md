@@ -1,4 +1,4 @@
-# 01 — Quickstart AMV AI STUDIO (da zero)
+# 01 — Overview AMV AI STUDIO (da zero)
 
 ## 1. Cos’è (e cosa NON è)
 - AI operativa + automazione via Python per MasterSap 4U
