@@ -14,7 +14,7 @@ Problema:
 - “L’AI non riesce a eseguire lo script”
 
 Soluzione:
-- MasterSap deve essere aperto con progetto
+- MasterSap deve essere in esecuzione e avere un progetto aperto
 - Controlla in MasterSap se la funzione MasterPy è attiva
 
 ## 3. Errori nello script (qualità/robustezza)
